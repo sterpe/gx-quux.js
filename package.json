@@ -1,5 +1,6 @@
 {
   "author": "sterpe",
+  "bin": "bin/cli.js",
   "bugs": {
     "url": "https://github.com/sterpe/gx-quux.js/issues"
   },
@@ -13,7 +14,6 @@
   "language": "js",
   "license": "MIT",
   "main": "index.js",
-  "bin": "bin/cli.js",
   "name": "gx-quux.js",
   "repository": {
     "type": "git",
@@ -22,5 +22,5 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" \u0026\u0026 exit 1"
   },
-  "version": "0.2.0"
+  "version": "0.2.1"
 }
