@@ -1,23 +1,25 @@
 {
-  "name": "gx-quux.js",
-  "version": "0.0.0",
-  "description": "a node test package for use with gx-js",
-  "main": "index.js",
-  "scripts": {
-    "test": "node -p 'require(\".\")'"
+  "author": "sterpe",
+  "bugs": {
+    "url": "https://github.com/sterpe/gx-quux.js/issues"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/sterpe/gx-quux.js.git"
-  },
+  "description": "",
+  "gxVersion": "0.4.0",
+  "homepage": "https://github.com/sterpe/gx-quux.js#readme",
   "keywords": [
     "quux",
     "gx-js"
   ],
-  "author": "sterpe <srterpe@gmail.com> (https://github.com/sterpe)",
+  "language": "js",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/sterpe/gx-quux.js/issues"
+  "main": "index.js",
+  "name": "gx-quux.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sterpe/gx-quux.js.git"
   },
-  "homepage": "https://github.com/sterpe/gx-quux.js#readme"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" \u0026\u0026 exit 1"
+  },
+  "version": "0.1.0"
 }
