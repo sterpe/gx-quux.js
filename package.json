@@ -1,0 +1,23 @@
+{
+  "name": "gx-quux.js",
+  "version": "0.0.0",
+  "description": "a node test package for use with gx-js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node -p 'require(\".\")'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sterpe/gx-quux.js.git"
+  },
+  "keywords": [
+    "quux",
+    "gx-js"
+  ],
+  "author": "sterpe <srterpe@gmail.com> (https://github.com/sterpe)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sterpe/gx-quux.js/issues"
+  },
+  "homepage": "https://github.com/sterpe/gx-quux.js#readme"
+}
